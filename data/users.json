@@ -1,0 +1,9 @@
+{
+  "demo": [
+    { "id": 1, "username": "zhangsan", "role": "admin", "status": "enabled" },
+    { "id": 2, "username": "lisi", "role": "developer", "status": "enabled" },
+    { "id": 3, "username": "wangwu", "role": "tester", "status": "disabled" },
+    { "id": 4, "username": "zhaoliu", "role": "developer", "status": "enabled" },
+    { "id": 5, "username": "sunqi", "role": "tester", "status": "enabled" }
+  ]
+}
