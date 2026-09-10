@@ -1,0 +1,13 @@
+{
+  "login": {
+    "token_expire_hours": 24,
+    "max_retry": 5,
+    "lock_minutes": 30,
+    "require_captcha_after_retry": true
+  },
+  "security": {
+    "password_min_length": 8,
+    "enable_2fa": false,
+    "session_timeout_minutes": 60
+  }
+}
